@@ -1,6 +1,11 @@
 /home/osboxes/Desktop/readit/catalog/publish/catalog
+/home/osboxes/Desktop/readit/catalog/publish/publish/web.config
 /home/osboxes/Desktop/readit/catalog/publish/appsettings.Development.json
 /home/osboxes/Desktop/readit/catalog/publish/appsettings.json
+/home/osboxes/Desktop/readit/catalog/publish/publish/appsettings.Development.json
+/home/osboxes/Desktop/readit/catalog/publish/publish/appsettings.json
+/home/osboxes/Desktop/readit/catalog/publish/publish/catalog.deps.json
+/home/osboxes/Desktop/readit/catalog/publish/publish/catalog.runtimeconfig.json
 /home/osboxes/Desktop/readit/catalog/publish/catalog.dll
 /home/osboxes/Desktop/readit/catalog/publish/catalog.runtimeconfig.json
 /home/osboxes/Desktop/readit/catalog/publish/catalog.pdb
