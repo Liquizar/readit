@@ -864,8 +864,3 @@ C:/tech/AZCourse/Update_2307/catalog/obj/Debug/net6.0/ref/catalog.dll
 /home/osboxes/Desktop/readit/catalog/obj/Debug/net6.0/catalog.pdb
 /home/osboxes/Desktop/readit/catalog/obj/Debug/net6.0/catalog.genruntimeconfig.cache
 /home/osboxes/Desktop/readit/catalog/obj/Debug/net6.0/ref/catalog.dll
-/home/osboxes/Desktop/readit/catalog/bin/Debug/net6.0/publish/web.config
-/home/osboxes/Desktop/readit/catalog/bin/Debug/net6.0/publish/appsettings.Development.json
-/home/osboxes/Desktop/readit/catalog/bin/Debug/net6.0/publish/appsettings.json
-/home/osboxes/Desktop/readit/catalog/bin/Debug/net6.0/publish/catalog.deps.json
-/home/osboxes/Desktop/readit/catalog/bin/Debug/net6.0/publish/catalog.runtimeconfig.json
